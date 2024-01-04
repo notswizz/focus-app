@@ -6,7 +6,7 @@ export default function Home() {
       <Head>
         <title>Get Focused</title>
         <meta name="description" content="Get Focused" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/focus.png" />
       </Head>
 
       <header className="bg-blue-600 text-white text-center p-4">
